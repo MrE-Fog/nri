@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/containerd/nri v0.2.0
-	github.com/containers/podman/v3 v3.2.0-rc1.0.20211005134800-8bcc086b1b9d
+	github.com/containers/podman/v3 v3.4.3
 	github.com/opencontainers/runtime-spec v1.0.3-0.20220825212826-86290f6a00fb
 	github.com/sirupsen/logrus v1.9.0
 	sigs.k8s.io/yaml v1.3.0
