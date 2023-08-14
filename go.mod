@@ -4,7 +4,7 @@ go 1.19
 
 // when updating containerd, adjust the replace rules accordingly
 require (
-	github.com/containerd/containerd v1.6.9
+	github.com/containerd/containerd v1.6.18
 	github.com/containerd/ttrpc v1.1.1-0.20220420014843-944ef4a40df3
 	github.com/moby/sys/mountinfo v0.6.2
 	github.com/opencontainers/runtime-spec v1.0.3-0.20220825212826-86290f6a00fb
@@ -24,8 +24,8 @@ require (
 
 require (
 	github.com/Microsoft/go-winio v0.5.2 // indirect
-	github.com/Microsoft/hcsshim v0.9.4 // indirect
-	github.com/containerd/cgroups v1.0.3 // indirect
+	github.com/Microsoft/hcsshim v0.9.6 // indirect
+	github.com/containerd/cgroups v1.0.4 // indirect
 	github.com/containerd/continuity v0.3.0 // indirect
 	github.com/containerd/fifo v1.0.0 // indirect
 	github.com/containerd/typeurl v1.0.2 // indirect
